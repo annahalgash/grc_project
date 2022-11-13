@@ -1,5 +1,5 @@
 # grc_project
-This is repository contains data and other supporting materials relevant to the General Relief Committee of New York Project by Anna Halgash.
+This repository contains data and other supporting materials relevant to the General Relief Committee of New York Project by Anna Halgash.
 
 This project consists of creating a usable data set from a static PDF of the General Relief Committee’s (GRC) 1848 report, which contains a record of their donations collected from approximately February 8th, 1847 to February 2nd, 1848. The GRC formed in order to collect American donations for the Irish Famine (1845-1852), which were then to be processed by the Society of Friends (Quakers) in Dublin. The subject of international donations towards the Famine has been neglected by scholars, and I seek to strengthen it by contributing data that can then be used to facilitate research. Beyond elaborating on the American response to the Famine, I also want my project to emphasize the international context surrounding the Famine, and expand beyond the typical political and economic narratives that typically focus on Britain only.
 
