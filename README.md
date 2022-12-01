@@ -7,5 +7,6 @@ This project highlights the GRC as a case study of American aid collected for th
 
 Specific materials include:
 * chart visualization images
+* data dictionary
 * raw data (.csv)
 * full GRC report (.pdf)
