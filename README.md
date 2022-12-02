@@ -6,7 +6,8 @@ This project consists of creating a usable data set from a static PDF of the Gen
 This project highlights the GRC as a case study of American aid collected for the Irish Famine by analyzing the committee’s first month of donations in February 1847. The GRC reflects the larger American motivation of philanthropy and perceived brotherhood with Ireland as two primarily English-speaking countries with ties to Great Britain. In addition, in light of the lack of scholarship on international donations, the GRC was chosen as the subject of this project due to the existence of Christine Kinealy’s research on the committee as well as a digitization of their 1848 report, “Aid to Ireland: Report of the General Relief Committee of the City of New York …”, available via Google Books. While the project’s scale can be expanded to the entirety of GRC donations, American Famine aid donations, and beyond, its specific focus allows for a more detailed historical snapshot of what kinds of people or organizations were motivated and able to donate in 1840s New York City. The project was limited to the first month of donations because the author was operating on their own and without funding.
 
 Specific materials include:
+* GRC donation and event calendars
 * chart visualization images
+* Microsoft Word version of the GRC report's introduction for text analysis purposes
 * data dictionary
-* raw data (.csv)
-* full GRC report (.pdf)
+* project spreadsheet (.csv)
