@@ -1,3 +1,8 @@
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 Date: The day the donation was delivered to the GRC (formatted DD/MM/YYYY)
 
 Donor Name: The name of the donor
